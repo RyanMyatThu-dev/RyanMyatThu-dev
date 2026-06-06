@@ -25,18 +25,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30" alt="typescript logo" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="30" alt="react logo" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30" alt="html5 logo" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black" height="30" alt="unity logo" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyanMyatThu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMyatThu-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RyanMyatThu-dev)](https://git.io/streak-stats)
 
 ---
 
