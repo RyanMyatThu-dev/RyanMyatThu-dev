@@ -36,7 +36,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMyatThu-dev&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanMyatThu-dev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RyanMyatThu-dev)](https://git.io/streak-stats)
 
 ---
 
@@ -44,9 +44,9 @@
 
 - **[DataStructures-Algorithms-Java-](https://github.com/RyanMyatThu-dev/DataStructures-Algorithms-Java-)** — DSA implementations in Java
 - **[CodeLens](https://github.com/RyanMyatThu-dev/CodeLens)** — C# utility/project
-- **[Spidey](https://github.com/RyanMyatThu-dev/Spidey)** — JavaScript project
+- **[Spidey](https://github.com/RyanMyatThu-dev/Spidey)** — A functional and basic search engine and web crawler
 - **[HabitTrack](https://github.com/RyanMyatThu-dev/HabitTrack)** — Simple habit tracking web app
-- **[dev-track](https://github.com/RyanMyatThu-dev/dev-track)** — Training batch management system (fork/contribution)
+- **[Unity Inventory](https://github.com/RyanMyatThu-dev/Unity-Inventory)** - Multi-tenant inventory management system with business analysis features
 
 Check out all my repositories [here](https://github.com/RyanMyatThu-dev?tab=repositories)!
 
