@@ -36,7 +36,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMyatThu-dev&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RyanMyatThu-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RyanMyatThu-dev)](https://git.io/streak-stats)
 
 ---
 
