@@ -2,8 +2,8 @@
 
 # Hi there, I'm Ryan Myat Thu 👋
 
-### **Software Engineer | Cloud, Backend & Distributed Systems**
-*Building resilient serverless architectures, real-time distributed applications, and full-stack systems.*
+### **ICE Student & Developer**
+*Building resilient serverless architectures, real-time applications, and full-stack systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RyanMyatThu--dev-181717?style=for-the-badge&logo=github)](https://github.com/RyanMyatThu-dev)
@@ -15,10 +15,10 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer focused on designing scalable cloud architectures, event-driven backends, and robust full-stack applications. My core engineering domain revolves around **.NET / C#**, **AWS Serverless infrastructure**, **TypeScript / React**, and **Python systems programming**.
+I am an Information and Communication Engineering (ICE) student and software developer focused on building scalable cloud architectures, event-driven backends, and robust full-stack applications. My core technical domain centers on **.NET / C#**, **AWS Serverless infrastructure**, **TypeScript / React**, and **Python systems programming**.
 
 - ☁️ **Cloud & Infrastructure**: Designing production-ready AWS architectures utilizing Lambda, HTTP API Gateway, EventBridge Scheduler, SQS Dead-Letter Queues, and CloudFormation Infrastructure-as-Code (IaC) with secure GitHub Actions OIDC pipelines.
-- ⚡ **Backend & Distributed Systems**: Architecting high-throughput ASP.NET Core Web APIs, SignalR real-time websocket synchronization, and secure TLS socket networking protocols.
+- ⚡ **Backend Engineering**: Architecting high-throughput ASP.NET Core Web APIs, SignalR real-time websocket synchronization, and secure TLS socket networking protocols.
 - 🎨 **Full-Stack & Mobile**: Delivering responsive, accessible user interfaces with Next.js, React, Tailwind CSS, and cross-platform mobile apps with Flutter.
 
 ---
@@ -69,7 +69,7 @@ I am a Software Engineer focused on designing scalable cloud architectures, even
 ---
 
 ### 4. [Cloud Explained — Serverless Architecture Animations](https://github.com/RyanMyatThu-dev)
-> **Programmatic Technical Explanations of Cloud & Distributed Systems**
+> **Programmatic Technical Explanations of Cloud Computing & Serverless Systems**
 > 
 > `Python` `Manim Community Edition` `AWS Architecture` `ASP.NET Core on Lambda`
 
